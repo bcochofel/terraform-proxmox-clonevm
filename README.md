@@ -62,7 +62,11 @@ No modules.
 
 ## Outputs
 
-No outputs.
+| Name | Description |
+|------|-------------|
+| <a name="output_random_pet_id"></a> [random\_pet\_id](#output\_random\_pet\_id) | n/a |
+| <a name="output_server_ip"></a> [server\_ip](#output\_server\_ip) | n/a |
+| <a name="output_server_name"></a> [server\_name](#output\_server\_name) | n/a |
 <!-- END_TF_DOCS -->
 
 ## References
