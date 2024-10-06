@@ -3,6 +3,12 @@
 All notable changes to this project will be documented in this file. See
 [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+## [1.2.0](https://github.com/bcochofel/terraform-proxmox-clonevm/compare/1.1.0...1.2.0) (2024-10-06)
+
+### Features
+
+* Change template to ubuntu noble ([ba2a291](https://github.com/bcochofel/terraform-proxmox-clonevm/commit/ba2a2912b98e16eecb726630f3f6a0acda6bcff5))
+
 ## [1.1.0](https://github.com/bcochofel/terraform-proxmox-clonevm/compare/1.0.0...1.1.0) (2024-10-06)
 
 ### Features
