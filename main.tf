@@ -26,7 +26,7 @@ resource "proxmox_vm_qemu" "cloudinit-test" {
   target_node = "pve"
 
   # The template name to clone this vm from
-  clone      = "ubuntu-jammy-tmpl"
+  clone      = "ubuntu-noble-tmpl"
   full_clone = true
 
   # Activate QEMU agent for this VM
